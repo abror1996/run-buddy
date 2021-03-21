@@ -1,6 +1,14 @@
-# Welcome to GitHub Desktop!
+# Run Buddy
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+## Purpose
+A website that offers fitness training services.
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
-abror abdullaev 
+## Built With
+* HTML
+* CSS
+
+## Website
+https://lernantino.github.io/run-buddy/
+
+## Contribution
+Made with ❤️ by [your name]
